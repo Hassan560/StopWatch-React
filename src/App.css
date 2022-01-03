@@ -1,0 +1,55 @@
+.App {
+  text-align: center;
+  background-color: #0d2745;
+  height: 100vh;
+  padding: 20px;
+}
+.btn{
+  background-color: #8d9c2b;
+  color: white;
+  padding: 5px 40px;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.timeBox{
+  background-color: gold;
+  padding: 20px;
+  margin-right: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.btn2{
+  background-color: #ee5ca9;
+  color: white;
+  padding: 5px 40px;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+  margin-right: 5px;
+}
+.btn3{
+  background-color: #839fe6;
+  color: white;
+  padding: 5px 40px;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.btn4{
+  background-color: #8d9c2b;
+  color: white;
+  padding: 5px 40px;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+  margin-right: 5px;
+}
+h2{
+  color: #ffffff85;
+  font-size: 45px;
+  margin-bottom: 10px;
+}
+h2 > span{
+  color: #6e0382;
+}
